@@ -1,4 +1,4 @@
-# currency-converter
+# currency-converter <img src="image-removebg-preview.png" height="40" width="40" >
 - A currency converting app that can run `online` or `offline`
 ---
 ## Used Languages
@@ -7,6 +7,10 @@
 - Javascript 🌟
 ---
 ### 🔗🔗Link: https://rededge967.github.io/currency-converter
+---
+### Landing page
+![Capture49](https://user-images.githubusercontent.com/91379432/146636625-f4cee0c7-685f-4b4e-a7fa-3f936ec85429.PNG)
+
 ---
 ## Running Currency Converter
 ### To run `Online`
