@@ -23,6 +23,7 @@
 
 
 #### 📫 Suggest your own features [here](https://github.com/RedEdge967/currency-converter/issues/new)
+#### 🤑 Check out [here](https://github.com/RedEdge967/currency-converter/blob/master/available-currencies.md) to know about available currencies
 ---
 ## Can I Contribute?
 - Sure, open an issue, point out errors, and what not. Wanna fix something yourselves, you're welcome to open a PR and I appreciate it.
