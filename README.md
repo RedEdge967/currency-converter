@@ -23,7 +23,7 @@
 ---
 ### To Do list
 - [ ] Add more currencies
-- [ ] Make more Beautiful and responsive
+- [x] Make more Beautiful and responsive
 
 
 #### 📫 Suggest your own features [here](https://github.com/RedEdge967/currency-converter/issues/new)
